@@ -1,0 +1,21 @@
+---
+- !ruby/object:Keywords
+  full_name: ALI AR
+  city: İZMİR
+  model: AC
+  plate: 35 AA 4854
+- !ruby/object:Keywords
+  full_name: AHMET RAZ
+  city: 
+  model: AC
+  plate: 99 TH 5485
+- !ruby/object:Keywords
+  full_name: ASD SAD
+  city: MUĞLA
+  model: AC
+  plate: 48 TG 4564
+- !ruby/object:Keywords
+  full_name: AHMET ARIF
+  city: İSTANBUL
+  model: AC
+  plate: 34 AA 8754
